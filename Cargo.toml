@@ -3,6 +3,10 @@ name = "functional_list"
 version = "0.1.0"
 authors = ["MarioAndWeegee3 <marioandweegee3@gmail.com>"]
 edition = "2018"
+license-file = "LICENSE"
+repository = "https://github.com/MarioAndWeegee3/functional_list"
+keywords = ["functional", "list"]
+categories = ["data-structures"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
